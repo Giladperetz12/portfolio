@@ -120,14 +120,14 @@ main {
 /* ---------- Timeline ---------- */
 .timeline-item {
     display: grid;
-    grid-template-columns: 1fr 100px; /* עמודת תמונה צרה יותר */
+    grid-template-columns: 1fr 100px;
     gap: 40px;
 
     position: relative;
     padding-left: 25px;
     border-left: 2px solid #1e293b;
     margin-bottom: 60px;
-    align-items: flex-start; /* יישור טוב יותר לטקסט */
+    align-items: flex-start;
 }
 
 
