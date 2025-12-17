@@ -81,3 +81,12 @@ footer {
     background-color: #020617;
     margin-top: 60px;
 }
+
+.profile-image {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 20px;
+    border: 3px solid #38bdf8;
+}
